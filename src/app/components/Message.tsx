@@ -1,4 +1,4 @@
-import { Message } from '@/types/chat'
+import type { Message } from '@/types/chat'
 import { User, Bot } from 'lucide-react'
 
 interface Props {
